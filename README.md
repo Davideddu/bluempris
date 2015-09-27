@@ -1,6 +1,8 @@
 # BlueMPRIS
 Exports connected Bluetooth media players to MPRIS to show them in the sound menu.
 
+![Screenshot](screenshot.jpg)
+
 ## Usage
 
 Simply run the Python script. Run it as a startup application to enable it automatically.

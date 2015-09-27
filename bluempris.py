@@ -30,7 +30,7 @@ BT_DEVICE_IFACE    = "org.bluez.Device1"
 
 DESKTOP_ENTRY = """[Desktop Entry]
 Version=1.0
-Name={name}
+Name={name} (Bluetooth)
 GenericName=Bluetooth media player
 Comment=A deamon that exposes any connected Bluetooth device's media controls through MPRIS
 Exec=bluempris --do-nothing
